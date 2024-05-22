@@ -1,9 +1,9 @@
 # Change these first
-owner: AventiumSoftworks # Your GitHub organization or username, where this repository lives
-repo: helios-status-page # The name of this repository
+owner: Clyzer # Your GitHub organization or username, where this repository lives
+repo: mangos-status-page # The name of this repository
 
 sites:
-  - name: Mojang Multiplayer Session Service
+  - name: Servicio multijugador de Mojang
     url: http://session.minecraft.net
     expectedStatusCodes:
       - 404
@@ -11,20 +11,20 @@ sites:
     url: https://textures.minecraft.net
     expectedStatusCodes:
       - 400
-  - name: "Mojang's Public API"
+  - name: "API pública de Mojang"
     url: https://api.mojang.com/
-  - name: Mojang Accounts Website
+  - name: Sitio web de cuentas de Mojang
     url: https://account.mojang.com/login
     expectedStatusCodes:
       - 403
       - 200
-  - name: Microsoft OAuth Server
+  - name: Servidor Microsoft OAuth
     url: https://login.microsoftonline.com/consumers/oauth2/v2.0/token
-  - name: Xbox Live auth server
+  - name: Servidor de autenticación de Xbox Live
     url: https://user.auth.xboxlive.com/user/authenticate
     expectedStatusCodes:
       - 405
-  - name: Xbox Live Gatekeeper
+  - name: Control de acceso a Xbox Live
     url: https://xsts.auth.xboxlive.com/xsts/authorize
     expectedStatusCodes:
       - 405
@@ -33,7 +33,7 @@ sites:
     expectedStatusCodes:
       - 401
       - 403
-  - name: Microsoft Minecraft Profile
+  - name: Perfil de Microsoft Minecraft
     url: https://api.minecraftservices.com/minecraft/profile
     expectedStatusCodes:
       - 401
@@ -42,16 +42,16 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: aventiumsoftworks.github.io
-  baseUrl: /helios-status-page
-  logoUrl: https://github.com/dscalzi/HeliosLauncher/raw/master/app/assets/images/SealCircle.png
-  name: Helios Status Page
-  introTitle: "This page is used by Helios Launcher to get Mojang status."
-  introMessage: We are not Mojang/Microsoft
+  baseUrl: /mangos-status-page
+  logoUrl: https://github.com/clyzer/MangoLauncher/raw/master/app/assets/images/SealCircle.png
+  name: Página de estado de Imperio Mango
+  introTitle: "Mangos Launcher utiliza esta página para obtener el estado de Mojang."
+  introMessage: Nosotros no somos Mojang/Microsoft
   navbar:
-    - title: Home
-      href: /helios-status-page
-    - title: Helios Launcher source code
-      href: https://github.com/dscalzi/HeliosLauncher
+    - title: Inicio
+      href: /mangos-status-page
+    - title: Código fuente de mango launcher
+      href: https://github.com/clyzer/MangoLauncher
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
