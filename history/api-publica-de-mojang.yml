@@ -1,7 +1,7 @@
 url: https://api.mojang.com/
-status: up
-code: 200
-responseTime: 57
-lastUpdated: 2024-05-28T23:01:26.698Z
+status: down
+code: 429
+responseTime: 92
+lastUpdated: 2024-05-29T05:44:20.819Z
 startTime: 2024-05-22T11:56:32.120Z
 generator: Upptime <https://github.com/upptime/upptime>
