@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 83,
     "timeDay": 100,
-    "timeWeek": 83,
+    "timeWeek": 89,
     "timeMonth": 83,
     "timeYear": 83,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 219,
     "timeDay": 111,
-    "timeWeek": 114,
+    "timeWeek": 126,
     "timeMonth": 141,
     "timeYear": 169,
     "dailyMinutesDown": {}
@@ -40,17 +40,17 @@
     "url": "https://api.mojang.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api.mojang.com.ico",
     "slug": "api-publica-de-mojang",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 111,
+    "time": 189,
+    "timeDay": 70,
     "timeWeek": 191,
-    "timeMonth": 191,
-    "timeYear": 191,
+    "timeMonth": 189,
+    "timeYear": 189,
     "dailyMinutesDown": {}
   },
   {
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 1094,
     "timeDay": 814,
-    "timeWeek": 1094,
+    "timeWeek": 978,
     "timeMonth": 1094,
     "timeYear": 1094,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 160,
     "timeDay": 74,
-    "timeWeek": 160,
+    "timeWeek": 147,
     "timeMonth": 160,
     "timeYear": 160,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 168,
     "timeDay": 102,
-    "timeWeek": 168,
+    "timeWeek": 187,
     "timeMonth": 168,
     "timeYear": 168,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 156,
     "timeDay": 29,
-    "timeWeek": 156,
+    "timeWeek": 162,
     "timeMonth": 156,
     "timeYear": 156,
     "dailyMinutesDown": {}
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 64,
     "timeDay": 20,
-    "timeWeek": 50,
+    "timeWeek": 58,
     "timeMonth": 52,
     "timeYear": 64,
     "dailyMinutesDown": {}
@@ -156,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 56,
     "timeDay": 49,
-    "timeWeek": 56,
+    "timeWeek": 63,
     "timeMonth": 56,
     "timeYear": 56,
     "dailyMinutesDown": {}
