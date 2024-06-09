@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 122,
     "timeDay": 127,
-    "timeWeek": 140,
+    "timeWeek": 153,
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {}
@@ -30,8 +30,8 @@
     "uptimeYear": "100.00%",
     "time": 219,
     "timeDay": 30,
-    "timeWeek": 164,
-    "timeMonth": 160,
+    "timeWeek": 180,
+    "timeMonth": 164,
     "timeYear": 171,
     "dailyMinutesDown": {}
   },
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 175,
     "timeDay": 90,
-    "timeWeek": 139,
+    "timeWeek": 143,
     "timeMonth": 175,
     "timeYear": 175,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 1098,
     "timeDay": 654,
-    "timeWeek": 1122,
+    "timeWeek": 1164,
     "timeMonth": 1098,
     "timeYear": 1098,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 219,
     "timeDay": 58,
-    "timeWeek": 252,
+    "timeWeek": 243,
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 206,
     "timeDay": 97,
-    "timeWeek": 222,
+    "timeWeek": 238,
     "timeMonth": 206,
     "timeYear": 206,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 411,
     "timeDay": 229,
-    "timeWeek": 787,
+    "timeWeek": 881,
     "timeMonth": 411,
     "timeYear": 411,
     "dailyMinutesDown": {}
@@ -138,9 +138,9 @@
     "uptimeYear": "100.00%",
     "time": 63,
     "timeDay": 54,
-    "timeWeek": 50,
+    "timeWeek": 52,
     "timeMonth": 48,
-    "timeYear": 63,
+    "timeYear": 64,
     "dailyMinutesDown": {}
   },
   {
@@ -148,14 +148,14 @@
     "url": "https://api.minecraftservices.com/minecraft/profile",
     "icon": "https://icons.duckduckgo.com/ip3/api.minecraftservices.com.ico",
     "slug": "perfil-de-microsoft-minecraft",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 70,
-    "timeDay": 60,
+    "timeDay": 59,
     "timeWeek": 74,
     "timeMonth": 70,
     "timeYear": 70,
