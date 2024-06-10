@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 174,
     "timeDay": 77,
-    "timeWeek": 132,
+    "timeWeek": 140,
     "timeMonth": 174,
     "timeYear": 174,
     "dailyMinutesDown": {}
@@ -148,17 +148,17 @@
     "url": "https://api.minecraftservices.com/minecraft/profile",
     "icon": "https://icons.duckduckgo.com/ip3/api.minecraftservices.com.ico",
     "slug": "perfil-de-microsoft-minecraft",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 69,
-    "timeDay": 62,
-    "timeWeek": 72,
-    "timeMonth": 69,
-    "timeYear": 69,
+    "time": 73,
+    "timeDay": 96,
+    "timeWeek": 77,
+    "timeMonth": 73,
+    "timeYear": 73,
     "dailyMinutesDown": {}
   }
 ]
