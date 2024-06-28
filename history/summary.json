@@ -49,7 +49,7 @@
     "time": 176,
     "timeDay": 375,
     "timeWeek": 179,
-    "timeMonth": 155,
+    "timeMonth": 159,
     "timeYear": 176,
     "dailyMinutesDown": {}
   },
@@ -58,7 +58,7 @@
     "url": "https://account.mojang.com/login",
     "icon": "https://icons.duckduckgo.com/ip3/account.mojang.com.ico",
     "slug": "sitio-web-de-cuentas-de-mojang",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
